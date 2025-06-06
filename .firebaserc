@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mindfree-70f04"
+  },
+  "targets": {
+    "mindfree-70f04": {
+      "hosting": {
+        "mind-free": [
+          "mind-free"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
